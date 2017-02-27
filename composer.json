@@ -1,0 +1,15 @@
+{
+    "name": "olavocneto/info",
+    "description": "List information about the users runtime environment",
+    "type": "library",
+    "require": {
+        "symfony/console": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olavo Neto",
+            "email": "olavocn.neto@gmail.com"
+        }
+    ]
+}
