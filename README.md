@@ -1,8 +1,11 @@
 ## Usage
 
 ``` bash
-# install dependencies
+# install
 composer global require olavocneto/pinfo-php
+
+# use
+pinfo-php
 ```
 
 ## Build Setup
