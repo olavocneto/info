@@ -1,5 +1,5 @@
 {
-    "name": "olavocneto/info",
+    "name": "olavocneto/pinfo-php",
     "description": "List information about the users runtime environment",
     "type": "library",
     "require": {
