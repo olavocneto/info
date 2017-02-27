@@ -3,7 +3,7 @@
     "description": "List information about the users runtime environment",
     "type": "library",
     "require": {
-        "symfony/console": "^3.2"
+        "symfony/console": "^2.7 || ^3.0"
     },
     "license": "MIT",
     "authors": [
