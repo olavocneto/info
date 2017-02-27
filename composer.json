@@ -11,5 +11,10 @@
             "name": "Olavo Neto",
             "email": "olavocn.neto@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Info\\": "src/"
+        }
+    }
 }
