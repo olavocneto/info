@@ -16,5 +16,6 @@
         "psr-4": {
             "Info\\": "src/"
         }
-    }
+    },
+    "bin": ["bin/pinfo-php"]
 }

@@ -2,7 +2,7 @@
 
 ``` bash
 # install dependencies
-composer global require olavocneto/info
+composer global require olavocneto/pinfo-php
 ```
 
 ## Build Setup
