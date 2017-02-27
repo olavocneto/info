@@ -15,7 +15,7 @@ class InfoCommand extends Command
       ->setName('i')
       ->setDescription('List information about the users runtime environment')
       ->setHelp(<<<EOT
-<info>php composer.phar about</info>
+<info>pinfo-php i</info>
 EOT
       )
     ;
